@@ -6,8 +6,7 @@ My name is Rui Sun. I received my bachelor degree in [Xidian University](https:/
 [![](https://camo.githubusercontent.com/66e4575a29d7106b1b3bcb528057d62fd62a6fe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d747769747465723f6c6162656c3d54776974746572266c6f676f3d54776974746572267374796c653d736f6369616c)](https://twitter.com/RuiSun94013021 "Welcome")
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/%E7%9F%A5%E4%B9%8E.png?raw=true"/>](https://www.zhihu.com/people/sun-rui-55-32 "Welcome")
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/csdn.png?raw=true"/>](https://blog.csdn.net/Three3333333 "Welcome")
-
-
+[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/LeetCode.png?raw=true"/>](https://leetcode-cn.com/u/threesr/ "Hello World!")
 
 ![](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
