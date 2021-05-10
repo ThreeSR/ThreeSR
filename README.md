@@ -10,6 +10,21 @@ My name is Rui Sun. I received my bachelor degree in [Xidian University](https:/
 
 ![](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
+**对于刷力扣题目的小伙伴们，[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容！！**
+
+**我致力于高效刷力扣，多多探索不同题目之间的关联。有空的时候发布力扣题解，主要以【举一反三】，【举一反二】，【击双】类型居多，欢迎大家[关注我的力扣](https://leetcode-cn.com/u/threesr/)！你们的鼓励就是我最大的前进动力。**
+
+**[我过往的力扣题解](https://leetcode-cn.com/profile/articles/)**
+
+力扣内容分为[主文档](https://github.com/ThreeSR/LeetCode/blob/main/README.md)和一些[子文档（subdocument）](https://github.com/ThreeSR/LeetCode/tree/main/Subdocument)。子文档的内容是一些主文档中已经写不下的专题，比如：
++ [树](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Tree.md)
++ [十大排序](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Sort.md)
++ [动态规划](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Dynamic%20Programming.md)
++ [图论](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Graph%20Theory.md)
++ [回溯](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Backtracking.md)
++ [数学理论](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Math%20Theory.md)
+
+后续还会增加更多子文档专题，敬请期待！没有独立写成子文档的内容，比如[双指针](https://github.com/ThreeSR/LeetCode/blob/main/README.md#double-pointer)，[位运算](https://github.com/ThreeSR/LeetCode/blob/main/README.md#bit-operation)，[滑动窗口](https://github.com/ThreeSR/LeetCode/blob/main/README.md#sliding-window)，[模拟法](https://github.com/ThreeSR/LeetCode/blob/main/README.md#%E6%A8%A1%E6%8B%9F%E6%B3%95)等内容也都在[主文档](https://github.com/ThreeSR/LeetCode/blob/main/README.md)之中。
 
 
 <!--
