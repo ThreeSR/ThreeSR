@@ -8,8 +8,6 @@ My name is Rui Sun. I received my bachelor degree in [Xidian University](https:/
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/csdn.png?raw=true"/>](https://blog.csdn.net/Three3333333 "Welcome")
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/LeetCode.png?raw=true"/>](https://leetcode-cn.com/u/threesr/ "Hello World!")
 
-![](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
-
 **对于刷力扣题目的小伙伴们，[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容！！**
 
 **我致力于高效刷力扣，多多探索不同题目之间的关联。有空的时候发布力扣题解，主要以【举一反三】，【举一反二】，【击双】类型居多，欢迎大家[关注我的力扣](https://leetcode-cn.com/u/threesr/)！你们的鼓励就是我最大的前进动力。**
@@ -26,6 +24,7 @@ My name is Rui Sun. I received my bachelor degree in [Xidian University](https:/
 
 后续还会增加更多子文档专题，敬请期待！没有独立写成子文档的内容，比如[双指针](https://github.com/ThreeSR/LeetCode/blob/main/README.md#double-pointer)，[位运算](https://github.com/ThreeSR/LeetCode/blob/main/README.md#bit-operation)，[滑动窗口](https://github.com/ThreeSR/LeetCode/blob/main/README.md#sliding-window)，[模拟法](https://github.com/ThreeSR/LeetCode/blob/main/README.md#%E6%A8%A1%E6%8B%9F%E6%B3%95)等内容也都在[主文档](https://github.com/ThreeSR/LeetCode/blob/main/README.md)之中。
 
+![](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
 <!--
 ![](https://camo.githubusercontent.com/ada8447aadd03ced44386d6a5fda29a7c91c2d26/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d696a656c6c697469)
