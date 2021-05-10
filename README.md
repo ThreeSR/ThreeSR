@@ -24,6 +24,10 @@ My name is Rui Sun. I received my bachelor degree in [Xidian University](https:/
 
 后续还会增加更多子文档专题，敬请期待！没有独立写成子文档的内容，比如[双指针](https://github.com/ThreeSR/LeetCode/blob/main/README.md#double-pointer)，[位运算](https://github.com/ThreeSR/LeetCode/blob/main/README.md#bit-operation)，[滑动窗口](https://github.com/ThreeSR/LeetCode/blob/main/README.md#sliding-window)，[模拟法](https://github.com/ThreeSR/LeetCode/blob/main/README.md#%E6%A8%A1%E6%8B%9F%E6%B3%95)等内容也都在[主文档](https://github.com/ThreeSR/LeetCode/blob/main/README.md)之中。
 
+### 对于对Coursera课程感兴趣的同学，[点击这里](https://github.com/ThreeSR/Coursera#readme)，找寻你想要的课程！！
+
+内容包含但**远远不限于**吴恩达老师的[机器学习](https://github.com/ThreeSR/Coursera/tree/main/Machine%20Learning(Andrew%20Ng))和[深度学习](https://github.com/ThreeSR/Coursera/tree/main/Deep%20Learning(Andrew%20Ng))课程！！
+
 ![](https://github.com/saadeghi/saadeghi/raw/master/dino.gif)
 
 <!--
