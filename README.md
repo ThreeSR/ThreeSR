@@ -8,7 +8,7 @@ My name is Rui Sun. I received my bachelor degree in [Xidian University](https:/
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/csdn.png?raw=true"/>](https://blog.csdn.net/Three3333333 "Welcome")
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/LeetCode.png?raw=true"/>](https://leetcode-cn.com/u/threesr/ "Hello World!")
 
-### **对于刷力扣题目的小伙伴们，[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容！！**
+### **对于刷力扣题目的小伙伴们，[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容！！** 
 
 **我致力于高效刷力扣，多多探索不同题目之间的关联。有空的时候发布力扣题解，主要以【举一反三】，【举一反二】，【击双】类型居多，欢迎大家[关注我的力扣](https://leetcode-cn.com/u/threesr/)！你们的鼓励就是我最大的前进动力。**
 
