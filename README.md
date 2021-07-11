@@ -12,7 +12,7 @@ My name is Rui Sun. I received my bachelor degree in [Xidian University](https:/
 
 **我致力于高效刷力扣，多多探索不同题目之间的关联。有空的时候发布力扣题解，主要以【举一反三】，【举一反二】，【击双】类型居多，欢迎大家[关注我的力扣](https://leetcode-cn.com/u/threesr/)！你们的鼓励就是我最大的前进动力。**
 
-**[我过往的力扣题解](https://leetcode-cn.com/profile/articles/)**
+**[我过往的力扣题解](https://leetcode-cn.com/profile/articles/)** 
 
 力扣内容分为[主文档](https://github.com/ThreeSR/LeetCode/blob/main/README.md)和一些[子文档（subdocument）](https://github.com/ThreeSR/LeetCode/tree/main/Subdocument)。子文档的内容是一些主文档中已经写不下的专题，比如：
 + [树](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Tree.md)
