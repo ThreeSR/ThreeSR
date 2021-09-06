@@ -19,6 +19,14 @@ Currently, I am a graduate student in [Columbia University](https://www.columbia
 
 ---
 
+### **For LeetCoder, [Click Here](https://github.com/ThreeSR/LeetCode/blob/main/README.md) for more about LeetCode!**
+
+I like solving LeetCode problems and finding the relationships of different problems. When I am free, I will submit LeetCode solutions. Due to limited time, I only support Chinese content. If I have more time, I may translate it into English.
+
+**[My LeetCode Homepage](https://leetcode-cn.com/u/threesr/)**
+
+---
+
 ### **对于刷力扣题目的小伙伴们，[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容！！** 
 
 **我致力于高效刷力扣，多多探索不同题目之间的关联。有空的时候发布力扣题解，主要以【举一反三】，【举一反二】，【击双】类型居多，欢迎大家[关注我的力扣](https://leetcode-cn.com/u/threesr/)！你们的鼓励就是我最大的前进动力。**
@@ -67,4 +75,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--->
