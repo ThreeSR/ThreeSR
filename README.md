@@ -5,10 +5,10 @@ My name is Rui Sun. I received my bachelor degree in [Xidian University](https:/
 Due to COVID-19, I chose to return to XDU from 2020 to 2021. At the beginning, I studied [Machine Learning](https://www.coursera.org/learn/machine-learning) and [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/L6F7LU439AMU) courses in Coursera and [CS231n](http://cs231n.stanford.edu/2017/syllabus) in YouTube. Next, I researched with [Prof.Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=zh-CN) about Image Super Resolution and Multi-view Face Image Synthesis.
 
 <!--
-Currently, I am learning something about Computer Vision[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89.png?raw=true"/>]("Magic"). If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨.
+Currently, I am learning something about Computer Vision[<img width="40" height="80" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FColumbia_University&psig=AOvVaw20eYZm9r1sEHfZbFn0ACiy&ust=1631057769302000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiG--zB6_ICFQAAAAAdAAAAABAD"/>]("Magic"). If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨.
 -->
 
-Currently, I am a graduate student in Columbia University pursuing master degree. 
+Currently, I am a graduate student in [Columbia University](https://www.columbia.edu/)[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/columbia-university-logo-png.png"/>](https://www.columbia.edu/ "Roar Lions!") pursuing master degree. 
 
 
 [![](https://camo.githubusercontent.com/0c4286a2bd43a8fe3b39f93c037c63612e014c62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c)](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")
@@ -16,6 +16,8 @@ Currently, I am a graduate student in Columbia University pursuing master degree
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/%E7%9F%A5%E4%B9%8E.png?raw=true"/>](https://www.zhihu.com/people/sun-rui-55-32 "Welcome")
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/csdn.png?raw=true"/>](https://blog.csdn.net/Three3333333 "Welcome")
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/LeetCode.png?raw=true"/>](https://leetcode-cn.com/u/threesr/ "Hello World!")
+
+---
 
 ### **对于刷力扣题目的小伙伴们，[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容！！** 
 
@@ -32,6 +34,8 @@ Currently, I am a graduate student in Columbia University pursuing master degree
 + [数学理论](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Math%20Theory.md)
 
 后续还会增加更多子文档专题，敬请期待！没有独立写成子文档的内容，比如[双指针](https://github.com/ThreeSR/LeetCode/blob/main/README.md#double-pointer)，[位运算](https://github.com/ThreeSR/LeetCode/blob/main/README.md#bit-operation)，[滑动窗口](https://github.com/ThreeSR/LeetCode/blob/main/README.md#sliding-window)，[模拟法](https://github.com/ThreeSR/LeetCode/blob/main/README.md#%E6%A8%A1%E6%8B%9F%E6%B3%95)等内容也都在[主文档](https://github.com/ThreeSR/LeetCode/blob/main/README.md)之中。
+
+---
 
 ### 对于对Coursera课程感兴趣的同学，[点击这里](https://github.com/ThreeSR/Coursera#readme)，找寻你想要的课程！！
 
