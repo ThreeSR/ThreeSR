@@ -48,7 +48,7 @@ I like solving LeetCode problems and finding the relationships of different prob
 <!--
 ---
 
-### 对于对Coursera课程感兴趣的同学，[点击这里](https://github.com/ThreeSR/Coursera#readme)，找寻你想要的课程！！
+### 对于对Coursera课程感兴趣的同学，[点击这里](https://github.com/ThreeSR/Coursera#readme)，找寻你想要的课程！！ 
 
 内容包含但**远远不限于**吴恩达老师的[机器学习](https://github.com/ThreeSR/Coursera/tree/main/Machine%20Learning(Andrew%20Ng))和[深度学习](https://github.com/ThreeSR/Coursera/tree/main/Deep%20Learning(Andrew%20Ng))课程！！
 
