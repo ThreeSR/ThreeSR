@@ -2,13 +2,15 @@
 
 My name is Rui Sun. I received my bachelor degree in [Xidian University](https://en.xidian.edu.cn/)[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/%E6%A0%A1%E5%BE%BD%E7%BA%A2.png?raw=true"/>](https://en.xidian.edu.cn/ "XD") majoring in Telecommunications Engineering[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/WIFI.png?raw=true"/>]("WiFi") from 2016 to 2020. 
 
-Due to COVID-19, I chose to return to XDU from 2020 to 2021. At the beginning, I studied [Machine Learning](https://www.coursera.org/learn/machine-learning) and [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/L6F7LU439AMU) courses in Coursera and [CS231n](http://cs231n.stanford.edu/2017/syllabus) in YouTube. Next, I researched with [Prof.Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=zh-CN) about Image Super Resolution and Multi-view Face Image Synthesis.
+Due to COVID-19, I chose to return to XDU from 2020 to 2021. At the beginning, I studied [Machine Learning](https://www.coursera.org/learn/machine-learning) and [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/L6F7LU439AMU) courses in Coursera and [CS231n](http://cs231n.stanford.edu/2017/syllabus) in YouTube. Next, I researched with [Prof.Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=zh-CN) on Image Super Resolution and Multi-view Face Image Synthesis.
 
 <!--
 Currently, I am learning something about Computer Vision[<img width="40" height="80" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FColumbia_University&psig=AOvVaw20eYZm9r1sEHfZbFn0ACiy&ust=1631057769302000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiG--zB6_ICFQAAAAAdAAAAABAD"/>]("Magic"). If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨.
 -->
 
 Currently, I am a graduate student in [Columbia University](https://www.columbia.edu/)[<img width="25" height="20" src="https://github.com/ThreeSR/Icons/blob/main/columbia-university-logo-png.png"/>](https://www.columbia.edu/ "Roar Lions!") pursuing master degree. 
+
+If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨.
 
 
 [![](https://camo.githubusercontent.com/0c4286a2bd43a8fe3b39f93c037c63612e014c62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c)](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")
