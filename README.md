@@ -26,7 +26,7 @@ My name is Rui Sun. I received my bachelor degree from Xidian University. Then, 
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/csdn.png?raw=true"/>](https://blog.csdn.net/Three3333333 "Welcome")
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/LeetCode.png?raw=true"/>](https://leetcode-cn.com/u/threesr/ "Hello World!")
 
----
+<!-- --- -->
 <!-- 
 ### **For LeetCoder, [Click Here](https://github.com/ThreeSR/LeetCode/blob/main/README.md) for more about LeetCode!**
 
