@@ -1,18 +1,23 @@
-### Hi there 👋  <img width="40" height="40" src="https://media2.giphy.com/media/4tSHBpzJw7R3rrKUeo/200w.webp"/><img width="40" height="40" src="https://media3.giphy.com/media/ftklTmdD9MN3uXaLvb/200w.webp"/>
+<!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋  <img width="40" height="40" src="https://media2.giphy.com/media/4tSHBpzJw7R3rrKUeo/200w.webp"/><img width="40" height="40" src="https://media3.giphy.com/media/ftklTmdD9MN3uXaLvb/200w.webp"/> -->
 
-My name is Rui Sun. I received my bachelor degree in [Xidian University](https://en.xidian.edu.cn/)[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/%E6%A0%A1%E5%BE%BD%E7%BA%A2.png?raw=true"/>](https://en.xidian.edu.cn/ "XD") majoring in Telecommunications Engineering[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/WIFI.png?raw=true"/>]("WiFi") from 2016 to 2020. 
+<!-- My name is Rui Sun. I received my bachelor degree in [Xidian University](https://en.xidian.edu.cn/)[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/%E6%A0%A1%E5%BE%BD%E7%BA%A2.png?raw=true"/>](https://en.xidian.edu.cn/ "XD") majoring in Telecommunications Engineering[<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/WIFI.png?raw=true"/>]("WiFi") from 2016 to 2020.  -->
 
 <!-- Due to COVID-19, I chose to return to XDU from 2020 to 2021. At the beginning, I studied [Machine Learning](https://www.coursera.org/learn/machine-learning) and [Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/L6F7LU439AMU) courses in Coursera and [CS231n](http://cs231n.stanford.edu/2017/syllabus) in YouTube. Next,  -->
 
-I did research supervised by [Prof. Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=zh-CN) on Image Super Resolution and Multi-view Face Image Synthesis from 2020 to 2021.
+<!-- I did research supervised by [Prof. Nannan Wang](https://scholar.google.com/citations?user=SRBn7oUAAAAJ&hl=zh-CN) on Image Super Resolution and Multi-view Face Image Synthesis from 2020 to 2021. -->
 
 <!--
 Currently, I am learning something about Computer Vision[<img width="40" height="80" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FColumbia_University&psig=AOvVaw20eYZm9r1sEHfZbFn0ACiy&ust=1631057769302000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNiG--zB6_ICFQAAAAAdAAAAABAD"/>]("Magic"). If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨.
 -->
 
-Now, I am a graduate student at [Columbia University](https://www.columbia.edu/)[<img width="25" height="20" src="https://github.com/ThreeSR/Icons/blob/main/columbia-university-logo-png.png"/>](https://www.columbia.edu/ "Roar Lions!") pursuing master degree. My current research area is Multi-modal Learning, Vision and Language.
+<!-- Now, I am a graduate student at [Columbia University](https://www.columbia.edu/)[<img width="25" height="20" src="https://github.com/ThreeSR/Icons/blob/main/columbia-university-logo-png.png"/>](https://www.columbia.edu/ "Roar Lions!") pursuing master degree. My current research area is Multi-modal Learning, Vision and Language. -->
 
-If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨.
+My name is Rui Sun. I received my bachelor degree from Xidian University. Then, I received my master degree from Columbia University. I am interested in multimodal learning.
+
+<!-- If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨. -->
+
+[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容
 
 
 [![](https://camo.githubusercontent.com/0c4286a2bd43a8fe3b39f93c037c63612e014c62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c)](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")
@@ -22,7 +27,7 @@ If you would like to know more about me, please see more information in ✨[My L
 [<img width="20" height="20" src="https://github.com/ThreeSR/Icons/blob/main/LeetCode.png?raw=true"/>](https://leetcode-cn.com/u/threesr/ "Hello World!")
 
 ---
-
+<!-- 
 ### **For LeetCoder, [Click Here](https://github.com/ThreeSR/LeetCode/blob/main/README.md) for more about LeetCode!**
 
 I like solving LeetCode problems and finding the relationships of different problems. When I am free, I will submit LeetCode solutions. Due to limited time, I only support Chinese content. If I have more time, I may translate it into English.
@@ -45,7 +50,7 @@ I like solving LeetCode problems and finding the relationships of different prob
 + [回溯](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Backtracking.md)
 + [数学理论](https://github.com/ThreeSR/LeetCode/blob/main/Subdocument/Math%20Theory.md)
 
-后续还会增加更多子文档专题，敬请期待！没有独立写成子文档的内容，比如[双指针](https://github.com/ThreeSR/LeetCode/blob/main/README.md#double-pointer)，[位运算](https://github.com/ThreeSR/LeetCode/blob/main/README.md#bit-operation)，[滑动窗口](https://github.com/ThreeSR/LeetCode/blob/main/README.md#sliding-window)，[模拟法](https://github.com/ThreeSR/LeetCode/blob/main/README.md#%E6%A8%A1%E6%8B%9F%E6%B3%95)等内容也都在[主文档](https://github.com/ThreeSR/LeetCode/blob/main/README.md)之中。
+后续还会增加更多子文档专题，敬请期待！没有独立写成子文档的内容，比如[双指针](https://github.com/ThreeSR/LeetCode/blob/main/README.md#double-pointer)，[位运算](https://github.com/ThreeSR/LeetCode/blob/main/README.md#bit-operation)，[滑动窗口](https://github.com/ThreeSR/LeetCode/blob/main/README.md#sliding-window)，[模拟法](https://github.com/ThreeSR/LeetCode/blob/main/README.md#%E6%A8%A1%E6%8B%9F%E6%B3%95)等内容也都在[主文档](https://github.com/ThreeSR/LeetCode/blob/main/README.md)之中。 -->
 
 
 
