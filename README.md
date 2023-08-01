@@ -19,6 +19,7 @@ My name is Rui Sun. I received my bachelor degree from Xidian University. Then, 
 
 [点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容
 
+[Semantic Scholar](https://www.semanticscholar.org/author/Rui-Sun/2068172926)
 
 [![](https://camo.githubusercontent.com/0c4286a2bd43a8fe3b39f93c037c63612e014c62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c)](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")
 [![](https://camo.githubusercontent.com/66e4575a29d7106b1b3bcb528057d62fd62a6fe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d747769747465723f6c6162656c3d54776974746572266c6f676f3d54776974746572267374796c653d736f6369616c)](https://twitter.com/RuiSun94013021 "Welcome")
