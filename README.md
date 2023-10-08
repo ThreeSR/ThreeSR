@@ -13,15 +13,17 @@ Currently, I am learning something about Computer Vision[<img width="40" height=
 
 <!-- Now, I am a graduate student at [Columbia University](https://www.columbia.edu/)[<img width="25" height="20" src="https://github.com/ThreeSR/Icons/blob/main/columbia-university-logo-png.png"/>](https://www.columbia.edu/ "Roar Lions!") pursuing master degree. My current research area is Multi-modal Learning, Vision and Language. -->
 
-My name is Rui Sun. I received my bachelor degree from Xidian University. Then, I received my master degree from Columbia University. I am interested in multimodal learning.
+My name is Rui Sun. I received my bachelor's degree from Xidian University. Then, I received my master's degree from Columbia University. I am interested in multimodal learning.
 
 <!-- If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨. -->
 
-[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容
+[My Homepage](https://threesr.github.io/)
 
 [Semantic Scholar](https://www.semanticscholar.org/author/Rui-Sun/2068172926)
 
-[My Homepage](https://threesr.github.io/)
+[LinkedIn](https://www.linkedin.com/in/rui-sun-999717173)
+
+[点击这里](https://github.com/ThreeSR/LeetCode/blob/main/README.md)进入力扣相关的内容
 
 [![](https://camo.githubusercontent.com/0c4286a2bd43a8fe3b39f93c037c63612e014c62/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d6c696e6b6564696e3f6c6162656c3d4c696e6b6564496e266c6f676f3d4c696e6b6564496e267374796c653d736f6369616c)](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")
 [![](https://camo.githubusercontent.com/66e4575a29d7106b1b3bcb528057d62fd62a6fe0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d2d747769747465723f6c6162656c3d54776974746572266c6f676f3d54776974746572267374796c653d736f6369616c)](https://twitter.com/RuiSun94013021 "Welcome")
