@@ -13,7 +13,7 @@ Currently, I am learning something about Computer Vision[<img width="40" height=
 
 <!-- Now, I am a graduate student at [Columbia University](https://www.columbia.edu/)[<img width="25" height="20" src="https://github.com/ThreeSR/Icons/blob/main/columbia-university-logo-png.png"/>](https://www.columbia.edu/ "Roar Lions!") pursuing master degree. My current research area is Multi-modal Learning, Vision and Language. -->
 
-<!--My name is Rui Sun. I received my bachelor's degree from Xidian University. Then, I received my master's degree from Columbia University. I am interested in multimodal learning.-->
+My name is Rui Sun. I received my bachelor's degree from Xidian University. Then, I received my master's degree from Columbia University. I am interested in multimodal learning.
 
 <!-- If you would like to know more about me, please see more information in ✨[My LinkedIn Profile](https://www.linkedin.com/in/rui-sun-999717173 "Welcome")✨. -->
 <!-- 
